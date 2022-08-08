@@ -1,4 +1,4 @@
-## Welcome to Caughy-hu Pages
+## Welcome to Hu Zhedong Pages
 
 <img src="./hzd.jpg" width = "250" height = "350" alt="hzd" align=left /> 
 
@@ -6,7 +6,7 @@
 
    Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-  ### Markdown
+### Markdown
 
 
 
